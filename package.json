@@ -1,0 +1,14 @@
+{
+  "name": "logic_test",
+  "version": "1.0.0",
+  "description": "Logic tests for ServicePad challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tomas Plevak",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.0.2"
+  }
+}
