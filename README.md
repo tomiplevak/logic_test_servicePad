@@ -26,3 +26,5 @@ multiples of 5 for "buzz" and the multiples of both, that is, the multiples of 3
 and 5, by the word "fizz buzz".
 
 Plus: Implement a test to the task performed (Preferably with Jest).
+
+RUN TEST WITH NPM TEST
